@@ -8,5 +8,5 @@
 
 ## ✒️ Autores
 
-| [<img src="./imgs/Fabio.png" width=1000><br>Fábio Filho](https://github.com/FabinhoFarias) | [<img src="./imgs/Sara.png" width=1030><br>Sara Araujo](https://github.com/) | [<img src="./imgs/Lucas.png" width=940><br>Lucas Azevedo]() |
+| [<img src="./imgs/Fabio.png" width=1000><br>Fábio Filho](https://github.com/FabinhoFarias) | [<img src="./imgs/Sara.png" width=1030><br>Sara Araujo](https://github.com/SaraEmilay) | [<img src="./imgs/Lucas.png" width=940><br>Lucas Azevedo]() |
 | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
